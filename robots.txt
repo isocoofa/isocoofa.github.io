@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://isocoofa.github.io/WYO/sitemap_index.txt
+Sitemap: https://isocoofa.github.io/bsC/sitemap_index.txt
+Sitemap: https://isocoofa.github.io/ewC/sitemap_index.txt
+Sitemap: https://isocoofa.github.io/oPi/sitemap_index.txt
